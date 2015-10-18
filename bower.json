@@ -1,0 +1,24 @@
+{
+  "name": "ebru",
+  "version": "0.1.0",
+  "description": "Ebru is a front-end framework for developing beautiful websites and web apps.",
+  "keywords": [
+    "ebru",
+    "css",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "frontend",
+    "framework",
+    "ux",
+    "design"
+  ],
+  "main": [
+    "ebru.css"
+  ],
+  "ignore": [
+    "*.md",
+    "LICENSE"
+  ],
+  "author": "Brandon Himpfen"
+}
